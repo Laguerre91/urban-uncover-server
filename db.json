@@ -46,6 +46,30 @@
       }
     },
     {
+      "id": 4,
+      "name": "Athens",
+      "country": "Greece",
+      "tourist_per_year": 6400000,
+      "peak_season": [
+        "jun",
+        "jul",
+        "aug",
+        "sep"
+      ],
+      "description": "Athens, Greece's historic capital, blends ancient marvels like the Acropolis with modern charm. Its labyrinthine streets in the Plaka neighborhood offer a taste of local life, while the bustling Monastiraki district provides a vibrant atmosphere. With its rich history and vibrant culture, Athens beckons visitors to explore its timeless allure.",
+      "cover": "https://www.europanostra.org/wp-content/uploads/2022/05/20220531-Athens-Hub-%C2%A9-Nick-N-A-Shutterstock-ed.jpg",
+      "population": 3155000,
+      "currency": {
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "langs": "greek",
+      "flag": {
+        "graph": "🇬🇷",
+        "svg": "https://flagcdn.com/gr.svg"
+      }
+    },
+    {
       "id": 6,
       "name": "Brussels",
       "country": "Belgium",
@@ -95,12 +119,245 @@
         "price": 0,
         "pets": false,
         "family": true,
-        "couples": false,
         "conditions": {
           "outdoor": false,
           "indoor": true
         },
         "seasonal": "All Year"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Tapas at El Tigre",
+      "categories": [
+        "Food",
+        "Culture"
+      ],
+      "description": "Located in the heart of Chueca, this simple bar has become one of the most typical tapas bars when going out for a drink in the area. Far from the sophisticated and modern aesthetics of many of its neighboring establishments, it is very busy every day and especially on weekends, when all kinds of customers come attracted by the great tapas offered with each drink, ranging from potato omelettes to portions of rice, pork shoulder or chorizo.",
+      "cityId": 1,
+      "image": "https://madridfree.org/wp-content/uploads/2019/03/el-tigre-6-1.jpg",
+      "location": {
+        "address": "C. de las Infantas, 23, Centro, 28004 Madrid",
+        "lat": "40.4203481120066",
+        "lng": "-3.697841467805914"
+      },
+      "activitySpecs": {
+        "price": 0,
+        "pets": false,
+        "family": true,
+        "conditions": {
+          "outdoor": false,
+          "indoor": true
+        },
+        "seasonal": "All Year"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Clubbing at Teatro Barceló",
+      "categories": [
+        "Music",
+        "Night Life"
+      ],
+      "description": "Teatro Barceló is a renowned nightclub nestled in the heart of Madrid, Spain, celebrated for its vibrant ambiance, diverse music selection, and energetic atmosphere. This iconic venue attracts party-goers from all over with its multiple floors, each offering a distinct musical vibe, from electronic beats to hip-hop rhythms. With its central location and reputation for lively nights, Club Barceló promises unforgettable experiences for those seeking to immerse themselves in Madrid's dynamic nightlife scene.",
+      "cityId": 1,
+      "image": "https://teatrobarcelo.com/wp-content/uploads/2022/03/lunes_teatrobarcelo.jpg",
+      "location": {
+        "address": "C. de Barceló, 11, Centro, 28004 Madrid",
+        "lat": "40.42702793580049",
+        "lng": "-3.6997914472388063"
+      },
+      "activitySpecs": {
+        "price": 20,
+        "pets": false,
+        "family": false,
+        "conditions": {
+          "outdoor": false,
+          "indoor": true
+        },
+        "seasonal": "All Year"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Tour the Nuevo Bernabéu Stadium",
+      "categories": [
+        "Sport",
+        "Culture"
+      ],
+      "description": "The Nuevo Bernabéu is the updated and renovated version of the historic Santiago Bernabéu Stadium, home to the famous Real Madrid football club. This modernized stadium features state-of-the-art facilities, enhanced spectator experiences, and improved amenities for fans. With its iconic design and world-class facilities, the Nuevo Bernabéu stands as a symbol of Real Madrid's enduring legacy and commitment to excellence in football.",
+      "cityId": 1,
+      "image": "https://images.ecestaticos.com/VV5HMKd8UG4jfq7cxW9S3CSmSFg=/0x0:1918x1078/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb95%2F07c%2Fb3a%2Fb9507cb3acd9de12c19c5d7df855c410.jpg",
+      "location": {
+        "address": "Av. de Concha Espina, 1, Chamartín, 28036 Madrid",
+        "lat": "40.453061594150206",
+        "lng": "-3.6883313095236003"
+      },
+      "activitySpecs": {
+        "price": 40,
+        "pets": false,
+        "family": true,
+        "conditions": {
+          "outdoor": true,
+          "indoor": true
+        },
+        "seasonal": "All Year"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Attend the Mad Cool Festival",
+      "categories": [
+        "Music",
+        "Culture"
+      ],
+      "description": "The Mad Cool Festival in Madrid is a renowned annual music event featuring diverse genres and international artists. With multiple stages and a vibrant atmosphere, it draws a global audience for an unforgettable experience.",
+      "cityId": 1,
+      "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/12/15/17026277700046.jpg",
+      "location": {
+        "address": "Villaverde District",
+        "lat": "40.35",
+        "lng": "-3.7"
+      },
+      "activitySpecs": {
+        "price": 98.5,
+        "pets": false,
+        "family": true,
+        "conditions": {
+          "outdoor": true,
+          "indoor": false
+        },
+        "seasonal": "June 10th - 13th"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Walk through el Retiro Park",
+      "categories": [
+        "Culture"
+      ],
+      "description": "Retiro Park in Madrid is a beloved urban oasis, offering tranquility and natural beauty in the heart of the city. With its lush greenery, scenic pathways, and iconic landmarks like the Crystal Palace, it's a popular destination for locals and visitors alike. Whether strolling along the tree-lined avenues, rowing on the serene lake, or simply relaxing amidst the peaceful surroundings, Retiro Park provides a refreshing escape from the hustle and bustle of Madrid's urban life.",
+      "cityId": 1,
+      "image": "https://www.madridhappypeople.com/wp-content/uploads/2023/08/parque-del-retiro-00.jpg",
+      "location": {
+        "address": "Retiro, 28009 Madrid",
+        "lat": "40.415",
+        "lng": "-3.6838888888889"
+      },
+      "activitySpecs": {
+        "price": 0,
+        "pets": true,
+        "family": true,
+        "conditions": {
+          "outdoor": true,
+          "indoor": false
+        },
+        "seasonal": "All Year"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Explore a diverse gastronomy at the San Miguel Market",
+      "categories": [
+        "Food",
+        "Culture"
+      ],
+      "description": "The San Miguel Market in Madrid is a bustling culinary hotspot, housed in a historic glass-and-iron structure. Here, visitors can savor a diverse array of gourmet delights, from traditional Spanish tapas to international cuisine, amidst a lively atmosphere that captures the essence of Madrid's vibrant food culture.",
+      "cityId": 1,
+      "image": "https://www.telemadrid.es/2021/06/21/noticias/madrid/Mercado-San-Miguel_2352374850_22284906_1300x731.jpg",
+      "location": {
+        "address": "Pl. de San Miguel, s/n, Centro, 28005 Madrid",
+        "lat": "40.41538486191497",
+        "lng": "--3.70897006658929"
+      },
+      "activitySpecs": {
+        "price": 0,
+        "pets": false,
+        "family": true,
+        "conditions": {
+          "outdoor": false,
+          "indoor": true
+        },
+        "seasonal": "All Year"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Immerse yourself in Madrid's nocturnal charm at Café Berlin.n",
+      "categories": [
+        "Music",
+        "Culture",
+        "Food"
+      ],
+      "description": "Café Berlin in Madrid is a popular cultural venue, known for its lively ambiance and diverse entertainment offerings. Located in the heart of the city, it serves as a hub for live music, comedy shows, and artistic events, attracting a diverse crowd of locals and tourists alike. Whether you're enjoying a drink with friends or catching a live performance, Café Berlin offers a dynamic and welcoming atmosphere that embodies the vibrant spirit of Madrid's cultural scene.",
+      "cityId": 1,
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0c/5d/bf/4e/un-ambiente-unico.jpg",
+      "location": {
+        "address": "C, Cost.ª de los Ángeles, 20, 28013 Madrid",
+        "lat": "40.419591036047024",
+        "lng": "-3.70794223180370166"
+      },
+      "activitySpecs": {
+        "price": 20,
+        "pets": false,
+        "family": false,
+        "conditions": {
+          "outdoor": false,
+          "indoor": true
+        },
+        "seasonal": "All Year"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Go Trekking through Navacerrada",
+      "categories": [
+        "Art",
+        "Culture"
+      ],
+      "description": "Trekking through Navacerrada offers outdoor enthusiasts an exhilarating journey into the Sierra de Guadarrama mountains. With scenic trails and breathtaking vistas, it's an ideal retreat to reconnect with nature's beauty and tranquility.",
+      "cityId": 1,
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/03/01/16776671218267.png",
+      "location": {
+        "address": "Navacerrada",
+        "lat": "40.73",
+        "lng": "-4.0152777777778"
+      },
+      "activitySpecs": {
+        "price": 0,
+        "pets": true,
+        "family": true,
+        "conditions": {
+          "outdoor": true,
+          "indoor": false
+        },
+        "seasonal": "Better in Winter"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Guernica at Museo Reina Sofia",
+      "categories": [
+        "Music",
+        "Culture"
+      ],
+      "description": "Noches del Botánico in Madrid is a summer highlight, where the botanical garden hosts captivating outdoor concerts. Featuring an eclectic lineup spanning jazz, blues, rock, and world music, it promises unforgettable experiences for music enthusiasts seeking unique performances amidst lush surroundings and a magical ambiance.",
+      "cityId": 1,
+      "image": "https://www.telemadrid.es/2023/12/12/noticias/cultura/_2623547694_43651977_1300x731.jpg",
+      "location": {
+        "address": "Av. Complutense, s/n, Moncloa - Aravaca, 28040 Madrid",
+        "lat": "40.44736668205356",
+        "lng": "-3.726283613492549"
+      },
+      "activitySpecs": {
+        "price": 60,
+        "pets": false,
+        "family": true,
+        "conditions": {
+          "outdoor": true,
+          "indoor": false
+        },
+        "seasonal": "June - July"
       }
     },
     {
