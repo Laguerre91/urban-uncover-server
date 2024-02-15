@@ -1,33 +1,53 @@
 {
-  "projects": [
+  "cities":
+  [
     {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
-    },
-    {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
+        "id": 1,
+        "name": "Madrid",
+        "country":"Spain",
+        "tourist_per_year": 7635356,
+        "peak_season": ["jun", "jul", "dec"],
+        "description":"Madrid, the capital of Spain, is a dynamic city renowned for its rich cultural heritage, stunning architecture, and vibrant atmosphere. From iconic landmarks like the Royal Palace and Plaza Mayor to world-class museums such as the Prado, Madrid offers a captivating blend of history, art, and modernity. With its bustling streets, delicious cuisine, and lively nightlife, Madrid invites visitors to immerse themselves in the heart of Spanish culture and experience its unique charm.",
+        "cover": "https://a.cdn-hotels.com/gdcs/production133/d1207/7ad2d7f0-68ce-11e8-8a0f-0242ac11000c.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+        "population": 3223000,
+        "currency": {
+          "name": "Euro",
+          "symbol": "€"
+        },
+        "langs": "spanish",
+        "flag": {
+          "graph": "🇪🇸",
+          "svg": "https://flagcdn.com/es.svg"
+        }
     }
   ],
-  "tasks": [
+  "activities":[
     {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+        "id": 1,
+        "name": "Guernica at Museo Reina Sofia",
+        "categories": ["Art", "Culture"],
+        "description": "With this painting is the opposite of the Mona Lisa in the Louvre in Paris, with Guernica you are surprised by how huge it is and that there is not a huge crowd of people trying to see it.",
+        "cityId": 1,
+        "image":"https://offloadmedia.feverup.com/madridsecreto.co/wp-content/uploads/2018/09/08112732/picasso-guernica-madrid.jpg",
+        "location":{
+            "address": "C. de Sta. Isabel, 52, Centro, 28012 Madrid",
+            "lat": "40.407926",
+            "lng": "-3.694473"
+        },
+        "activitySpecs": {
+          "price": 0,
+          "pets": false,
+          "family": true,
+          "couples": false,
+          "conditions":{
+              "outdoor": false,
+              "indoor": true
+          },
+          "seasonal": "All Year"
+        }
+
+        
     }
-  ]
+]  
 }
+
