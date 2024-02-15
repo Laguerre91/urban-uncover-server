@@ -46,6 +46,28 @@
       }
     },
     {
+      "id": 3,
+      "name": "Amsterdam",
+      "country": "Netherlands",
+      "tourist_per_year": 22000000,
+      "peak_season": [
+        "jun",
+        "jul"
+      ],
+      "description": "Amsterdam is much more than the stereotypes that are presented of this city on postcards. The first capitalism and the golden age of modern art flourished here. That wealth and art has been preserved over the years until now, making Amsterdam one of the main tourist cities in all of Europe.",
+      "cover": "https://media.traveler.es/photos/63ed35c00ede31418d6d26e5/16:9/w_2560%2Cc_limit/max-van-den-oetelaar--e4vLFZV9QM-unsplash.jpg",
+      "population": 821752,
+      "currency": {
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "langs": "dutch",
+      "flag": {
+        "graph": "🇳🇱",
+        "svg": "https://flagcdn.com/nl.svg"
+      }
+    },
+    {
       "id": 4,
       "name": "Athens",
       "country": "Greece",
@@ -67,6 +89,29 @@
       "flag": {
         "graph": "🇬🇷",
         "svg": "https://flagcdn.com/gr.svg"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Edinburgh",
+      "country": "Scotland",
+      "tourist_per_year": 2000000,
+      "peak_season": [
+        "jun",
+        "jul",
+        "aug"
+      ],
+      "description": "Scotland's capital is one of the most unique and memorable cities in Europe. Studded with volcanic hills it sits on the southern shore of the Firth of Forth. The cities superb architecture ranges from the Greek-style monuments found on Calton Hill, to extraordinary 16th century tenements in the Old Town.",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Evening_view_across_Carlton_Hill_towards_the_Castle_%2813164472813%29.jpg/1200px-Evening_view_across_Carlton_Hill_towards_the_Castle_%2813164472813%29.jpg",
+      "population": 490000,
+      "currency": {
+        "name": "Libra",
+        "symbol": "£"
+      },
+      "langs": "english",
+      "flag": {
+        "graph": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+        "svg": ""
       }
     },
     {
