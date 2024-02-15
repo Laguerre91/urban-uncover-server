@@ -1,53 +1,236 @@
 {
-  "cities":
-  [
+  "cities": [
     {
-        "id": 1,
-        "name": "Madrid",
-        "country":"Spain",
-        "tourist_per_year": 7635356,
-        "peak_season": ["jun", "jul", "dec"],
-        "description":"Madrid, the capital of Spain, is a dynamic city renowned for its rich cultural heritage, stunning architecture, and vibrant atmosphere. From iconic landmarks like the Royal Palace and Plaza Mayor to world-class museums such as the Prado, Madrid offers a captivating blend of history, art, and modernity. With its bustling streets, delicious cuisine, and lively nightlife, Madrid invites visitors to immerse themselves in the heart of Spanish culture and experience its unique charm.",
-        "cover": "https://a.cdn-hotels.com/gdcs/production133/d1207/7ad2d7f0-68ce-11e8-8a0f-0242ac11000c.jpg?impolicy=fcrop&w=800&h=533&q=medium",
-        "population": 3223000,
-        "currency": {
-          "name": "Euro",
-          "symbol": "€"
-        },
-        "langs": "spanish",
-        "flag": {
-          "graph": "🇪🇸",
-          "svg": "https://flagcdn.com/es.svg"
-        }
+      "id": 1,
+      "name": "Madrid",
+      "country": "Spain",
+      "tourist_per_year": 7635356,
+      "peak_season": [
+        "jun",
+        "jul",
+        "dec"
+      ],
+      "description": "Madrid, the capital of Spain, is a dynamic city renowned for its rich cultural heritage, stunning architecture, and vibrant atmosphere. From iconic landmarks like the Royal Palace and Plaza Mayor to world-class museums such as the Prado, Madrid offers a captivating blend of history, art, and modernity. With its bustling streets, delicious cuisine, and lively nightlife, Madrid invites visitors to immerse themselves in the heart of Spanish culture and experience its unique charm.",
+      "cover": "https://a.cdn-hotels.com/gdcs/production133/d1207/7ad2d7f0-68ce-11e8-8a0f-0242ac11000c.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+      "population": 3223000,
+      "currency": {
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "langs": "spanish",
+      "flag": {
+        "graph": "🇪🇸",
+        "svg": "https://flagcdn.com/es.svg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Berlin",
+      "country": "Germany",
+      "tourist_per_year": 570000,
+      "peak_season": [
+        "jul",
+        "ago"
+      ],
+      "description": "The German capital is also home to all the major government buildings, including the historic Reichstag, the seat of the German parliament. Berlin is the city of arts, artists and museums. More than 170 museums, including the world-famous Museum Island, showcase the world's treasures.",
+      "cover": "https://www.riu.com/blog/wp-content/uploads/2023/06/torre-de-la-television-berlin.jpg",
+      "population": 3645000,
+      "currency": {
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "langs": "deutsch",
+      "flag": {
+        "graph": "🇩🇪",
+        "svg": "https://flagcdn.com/de.svg"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Brussels",
+      "country": "Belgium",
+      "tourist_per_year": 9343324,
+      "peak_season": [
+        "apr",
+        "may",
+        "jun",
+        "sept",
+        "oct"
+      ],
+      "description": "Currently Belgium is also the headquarters of the European institutions and NATO. It is the comic capital of the world and the country of waffles and fries. Beyond the clichés that may be said, Belgium is not a country recognized especially for its gastronomy, nor for its festivals.But it is a place where you can find a huge cultural offer next to cities of great beauty such as Ghent, Bruges, or Antwerp.",
+      "cover": "https://lonelyplanetes.cdnstatics2.com/sites/default/files/styles/max_1300x1300/public/309_1_okk_339321_bruxelles-grand-place-tapisdefleurs_cwbt-g.batistini.jpg?itok=7-JJpdJS",
+      "population": 1209000,
+      "currency": {
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "langs": [
+        "french",
+        "dutch",
+        "german"
+      ],
+      "flag": {
+        "graph": "🇧🇪",
+        "svg": "https://flagcdn.com/be.svg"
+      }
     }
   ],
-  "activities":[
+  "activities": [
     {
-        "id": 1,
-        "name": "Guernica at Museo Reina Sofia",
-        "categories": ["Art", "Culture"],
-        "description": "With this painting is the opposite of the Mona Lisa in the Louvre in Paris, with Guernica you are surprised by how huge it is and that there is not a huge crowd of people trying to see it.",
-        "cityId": 1,
-        "image":"https://offloadmedia.feverup.com/madridsecreto.co/wp-content/uploads/2018/09/08112732/picasso-guernica-madrid.jpg",
-        "location":{
-            "address": "C. de Sta. Isabel, 52, Centro, 28012 Madrid",
-            "lat": "40.407926",
-            "lng": "-3.694473"
+      "id": 1,
+      "name": "Guernica at Museo Reina Sofia",
+      "categories": [
+        "Art",
+        "Culture"
+      ],
+      "description": "With this painting is the opposite of the Mona Lisa in the Louvre in Paris, with Guernica you are surprised by how huge it is and that there is not a huge crowd of people trying to see it.",
+      "cityId": 1,
+      "image": "https://offloadmedia.feverup.com/madridsecreto.co/wp-content/uploads/2018/09/08112732/picasso-guernica-madrid.jpg",
+      "location": {
+        "address": "C. de Sta. Isabel, 52, Centro, 28012 Madrid",
+        "lat": "40.407926",
+        "lng": "-3.694473"
+      },
+      "activitySpecs": {
+        "price": 0,
+        "pets": false,
+        "family": true,
+        "couples": false,
+        "conditions": {
+          "outdoor": false,
+          "indoor": true
         },
-        "activitySpecs": {
-          "price": 0,
-          "pets": false,
-          "family": true,
-          "couples": false,
-          "conditions":{
-              "outdoor": false,
-              "indoor": true
-          },
-          "seasonal": "All Year"
-        }
-
-        
+        "seasonal": "All Year"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Mustafas Gemüse Kebab",
+      "categories": [
+        "Food",
+        "Culture"
+      ],
+      "description": "If you have not tried Mustafas Gemüse Kebab then you don’t know just how awesome a freshly prepared Kebab can taste like. If you only have time to try one Kebab then make sure you head out to Kreuzberg and give Mustafas a try",
+      "cityId": 2,
+      "image": "https://cdn.sortiraparis.com/images/80/96801/842871-gemuse-le-legendaire-kebab-de-la-rue-ramey.jpg",
+      "location": {
+        "address": "Mehringdamm 32, 10961 Berlin, Germany",
+        "lat": "52.49382930773085",
+        "lng": "13.388029296017118"
+      },
+      "activitySpecs": {
+        "price": 0,
+        "pets": false,
+        "family": true,
+        "conditions": {
+          "outdoor": true,
+          "indoor": true
+        },
+        "seasonal": "All Year"
+      }
+    },
+    {
+      "id": 12,
+      "name": "OKTOBERFEST BERLÍN",
+      "categories": [
+        "Food",
+        "Culture"
+      ],
+      "description": "The traditional Oktoberfest in Berlin will not only feature a large 80 x 20 meter Paulaner tent, with Bavarian style decoration and furniture, but also a large party and a fair with many attractions. And, of course, lots of the best beer!",
+      "cityId": 2,
+      "image": "https://www.berlin.de/binaries/asset/image_assets/2704732/ratio_4_3/1659604463/800x600/",
+      "location": {
+        "address": "Kurt-Schumacher-Damm 207, 13405 Berlin, Germany",
+        "lat": "52.55025938698241",
+        "lng": "13.307328282104333"
+      },
+      "activitySpecs": {
+        "price": 0,
+        "pets": false,
+        "family": true,
+        "conditions": {
+          "outdoor": true,
+          "indoor": false
+        },
+        "seasonal": "October"
+      }
+    },
+    {
+      "id": 13,
+      "name": "East side Gallery",
+      "categories": [
+        "Culture"
+      ],
+      "description": "At 1316 metres long, the open-air art gallery on the banks of the Spree in Friedrichshain is the longest continuous section of the Berlin Wall still in existence. Immediately after the wall came down on 9 November 1989, 118 artists from 21 countries began painting the East Side Gallery, and it officially opened as an open air gallery on 28 September 1990. Just over a year later, it was given protected memorial status.",
+      "cityId": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Berlin_Wall6270.JPG",
+      "location": {
+        "address": "Mühlenstraße, 10243 Berlin, Germany",
+        "lat": "52.505505240775776",
+        "lng": "13.43966442336844"
+      },
+      "activitySpecs": {
+        "price": 0,
+        "pets": true,
+        "family": true,
+        "conditions": {
+          "outdoor": true,
+          "indoor": false
+        },
+        "seasonal": "All Year"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Tiergarten Berlin",
+      "categories": [
+        "Culture"
+      ],
+      "description": "Berlin's Tiergarten is the equivalent of New York's Central Park or London's Hyde Park: the green lung of the metropolis. Located in the city center, close to tourist attractions such as the Brandenburg Gate, it is, with its 210 meters, larger than London's Hyde Park. This park is a meeting point for walks, family picnics, playing ball or simply resting for a while. In summer, every Sunday you can hear the carillon bells.",
+      "cityId": 2,
+      "image": "https://api.estater.de/image-proxy/WqlLmMVBqAxI33hS1wNQqRKp-Rm_dM1Qd3dHem11hww/w:2048/h:1072/g:ce:0:0/rt:fill/q:85/bG9jYWw6Ly9zdG9yYWdlL2RhdGVpZW4vcGxhY2VzL0Jlcmxpbi1UaWVyZ2FydGVuL0FTMzAzMDI4ODkyX3RpZXJnYXJ0ZW5fMngxLmpwZWc.jpg",
+      "location": {
+        "address": "Str. des 17. Juni, 10785 Berlin, Germany",
+        "lat": "52.51620697199194",
+        "lng": "13.358235991673473"
+      },
+      "activitySpecs": {
+        "price": 0,
+        "pets": true,
+        "family": true,
+        "conditions": {
+          "outdoor": true,
+          "indoor": false
+        },
+        "seasonal": "All Year"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Eastside Music Days",
+      "categories": [
+        "Culture",
+        "Art",
+        "Music"
+      ],
+      "description": "East Side Music Days is Berlin’s first street music festival, which premiered in 2015. This public festival around East Side Park and the Oberbaumbrücke is dedicated to Berlin artists who have used the street as a stage on their way to a professional career. Nearly 100 solo artists and bands performed on various stages along the banks of the Spree and presented a diverse programme of different genres – from jazz, funk and soul to reggae, ska, hip-hop, pop and electronica.",
+      "cityId": 2,
+      "image": "https://kulturmarken.de/system/images/3578/large/East-Side-Music-Days2015_106.jpg",
+      "location": {
+        "address": "Gerichtstraße 35, 13347, Berlin, Germany",
+        "lat": "52.54513381669668",
+        "lng": "13.366568328835577"
+      },
+      "activitySpecs": {
+        "price": 0,
+        "pets": true,
+        "family": true,
+        "conditions": {
+          "outdoor": true,
+          "indoor": false
+        },
+        "seasonal": "August"
+      }
     }
-]  
+  ]
 }
-
