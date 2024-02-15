@@ -488,6 +488,59 @@
         },
         "seasonal": "August"
       }
+    },
+    {
+      "id": 16,
+      "name": "Musikfest Berlin",
+      "categories": [
+        "Culture",
+        "Art",
+        "Music"
+      ],
+      "description": "Three weeks with internationally renowned orchestras, conductors, conductors and soloists, exciting new music and a look beyond the familiar cultural territory: that is Musikfest Berlin, organized by the Berlin Festivals in cooperation with the Berliner Philharmoniker Foundation.",
+      "cityId": 2,
+      "image": "https://m-festival.biz/en/wp-content/uploads/2018/04/14199471_10153913061628716_5638824846651932979_n-1-860x516.jpg",
+      "location": {
+        "address": "Herbert-von-Karajan-Straße 1, 10785 Berlín, Germany",
+        "lat": "52.510129866308006",
+        "lng": "13.369793684657692"
+      },
+      "activitySpecs": {
+        "price": 29,
+        "pets": false,
+        "family": true,
+        "conditions": {
+          "outdoor": false,
+          "indoor": true
+        },
+        "seasonal": "August - September"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Tresor Club",
+      "categories": [
+        "Night life",
+        "Music"
+      ],
+      "description": "How do we best describe Tresor? Well... get ready for hard techno beats, pounding sensations, and DJs behind jail bars in this iconic techno underground club. Located in an abandoned power plant, you'll experience one of the best techno clubs in Berlin in Tresor.",
+      "cityId": 2,
+      "image": "https://www.technostation.tv/wp-content/uploads/2022/02/tresor-4-770x514.jpg",
+      "location": {
+        "address": "Köpenicker Str. 70, 10179 Berlin, Germany",
+        "lat": "52.510883295647695",
+        "lng": "13.419425427903654"
+      },
+      "activitySpecs": {
+        "price": 15,
+        "pets": false,
+        "family": false,
+        "conditions": {
+          "outdoor": false,
+          "indoor": true
+        },
+        "seasonal": "All Year"
+      }
     }
   ]
 }
