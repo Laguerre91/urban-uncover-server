@@ -586,6 +586,208 @@
         },
         "seasonal": "All Year"
       }
+    },
+    {
+      "id": 18,
+      "name": "The Bulldog The First Coffeeshop",
+      "categories": [
+        "Night life",
+        "Music"
+      ],
+      "description": "The Bulldog is a very famous Coffeeshop chain in Amsterdam that has 5 locations, a hotel, several gift shops and seed shops. Popular with tourists and locals, The Bulldog is easily recognizable by its logo: the mastiff with the studded collar.",
+      "cityId": 3,
+      "image": "https://www.amsterdam.net/es/wp-content/uploads/sites/93/bulldog-amsterdam-hd.jpg",
+      "location": {
+        "address": "Oudezijds Voorburgwal 901012 GG Amsterdam",
+        "lat": "52.373725163619135",
+        "lng": "4.897730303704525"
+      },
+      "activitySpecs": {
+        "price": 0,
+        "pets": true,
+        "family": false,
+        "conditions": {
+          "outdoor": false,
+          "indoor": true
+        },
+        "seasonal": "All Year"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Anne Frank house museum",
+      "categories": [
+        "Culture"
+      ],
+      "description": "The Anne Frank House is a museum with a story As a visitor, you will experience this history through quotes, photos, films and original objects.",
+      "cityId": 3,
+      "image": "https://media1.thrillophilia.com/filestore/6fmydl80n56xunridnhb0zlcn9vt_Anne_Frank_House_c27ee9c7e4.jpg?w=1840&h=1080&dpr=2",
+      "location": {
+        "address": "Anne Frank House Westermarkt 20, 1016 DK Amsterdam",
+        "lat": "52.3789620898261",
+        "lng": "4.883630466966467"
+      },
+      "activitySpecs": {
+        "price": 16,
+        "pets": false,
+        "family": true,
+        "conditions": {
+          "outdoor": false,
+          "indoor": true
+        },
+        "seasonal": "All Year"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Arcadia Restaurant",
+      "categories": [
+        "Food"
+      ],
+      "description": "Arcadia Restaurant in Athens is a chic restaurant in front of the acrópolis of athens offering a fusion of Mediterranean and international cuisine. With a stylish ambiance adorned with jazz motifs, patrons can enjoy a diverse menu featuring Greek specialties, seafood, and gourmet pasta dishes,",
+      "cityId": 4,
+      "image": "https://media1.thrillophilia.com/filestore/6fmydl80n56xunridnhb0zlcn9vt_Anne_Frank_House_c27ee9c7e4.jpg?w=1840&h=1080&dpr=2",
+      "location": {
+        "address": "Makrigianni 23-27, Athina 117 42, Grecia",
+        "lat": "37.96880414647249",
+        "lng": "23.729535736641353"
+      },
+      "activitySpecs": {
+        "price": 0,
+        "pets": true,
+        "family": true,
+        "conditions": {
+          "outdoor": true,
+          "indoor": true
+        },
+        "seasonal": "All Year"
+      }
+    },
+    {
+      "id": 21,
+      "name": "Guided Acropolis Tour with Fast Track Tickets",
+      "categories": [
+        "Culture"
+      ],
+      "description": "The Acropolis of Athens can be considered the most representative of the Greek acropolis. The acropolis was, literally, the upper city and was present in most Greek cities, with a dual function: defensive and as the seat of the main places of worship.",
+      "cityId": 4,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/View_of_the_Acropolis_Athens_%28pixinn.net%29.jpg",
+      "location": {
+        "address": "Makrigianni 23-27, Athina 117 42, Grecia",
+        "lat": "37.97185907283147",
+        "lng": "23.725685892175367"
+      },
+      "activitySpecs": {
+        "price": 51,
+        "pets": false,
+        "family": true,
+        "conditions": {
+          "outdoor": true,
+          "indoor": false
+        },
+        "seasonal": "All Year"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Dollar: Discover canyoning near Edinburgh",
+      "categories": [
+        "Sport"
+      ],
+      "description": "Discover the thrill of canyoneering on an excursion to Dollar Glen. Learn all the skills you need from qualified guides, then jump, slide, zip line, climb and rappel down waterfalls and green countryside.",
+      "cityId": 5,
+      "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/0e/83/b1/d3.jpg",
+      "location": {
+        "address": "20 Castle Rd, Dollar FK14 7PP, Reino Unido",
+        "lat": "56.17715400156561",
+        "lng": "-3.674707931819379"
+      },
+      "activitySpecs": {
+        "price": 99,
+        "pets": false,
+        "family": true,
+        "conditions": {
+          "outdoor": true,
+          "indoor": false
+        },
+        "seasonal": "All Year"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Edinburgh Castle: Guided Walking Tour with Entry Ticket",
+      "categories": [
+        "Culture"
+      ],
+      "description": "Explore one of the most important fortresses in Scottish history with this entrance ticket to Edinburgh Castle. Visit the Great Hall and delve into the castle's action-packed past on a guided walking tour.",
+      "cityId": 5,
+      "image": "https://cdn.getyourguide.com/img/tour/947d5e9fffeda2d1.jpeg/98.jpg",
+      "location": {
+        "address": "Castlehill, Edinburgh EH1 2NG, Reino Unido",
+        "lat": "55.94877007017337",
+        "lng": "-3.199884457959314"
+      },
+      "activitySpecs": {
+        "price": 40,
+        "pets": false,
+        "family": true,
+        "conditions": {
+          "outdoor": true,
+          "indoor": false
+        },
+        "seasonal": "All Year"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Entrance to the Atomium with a Design Museum ticket",
+      "categories": [
+        "Culture"
+      ],
+      "description": "Visit an icon of Brussels and Belgium and a unique creation of architectural history. The iconic relic of the 1958 Brussels International Exhibition, the Atomium is the European capital's most popular attraction.",
+      "cityId": 6,
+      "image": "https://cdn.getyourguide.com/img/tour/63e5032fa36fd.jpeg/145.jpg",
+      "location": {
+        "address": "Pl. de l'Atomium 1, 1020 Bruxelles, Bélgica",
+        "lat": "50.895170270725934",
+        "lng": "4.341624509021435"
+      },
+      "activitySpecs": {
+        "price": 17,
+        "pets": false,
+        "family": true,
+        "conditions": {
+          "outdoor": true,
+          "indoor": false
+        },
+        "seasonal": "All Year"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Visit to the Chocolate Museum with workshop",
+      "categories": [
+        "Culture",
+        "Food"
+      ],
+      "description": "Enjoy making your own personalized chocolate bars with the help of a professional chocolatier. After the workshop, you can visit the Choco-Story museum in Brussels with an audio guide.",
+      "cityId": 6,
+      "image": "https://cdn.getyourguide.com/img/tour/63e5032fa36fd.jpeg/145.jpg",
+      "location": {
+        "address": "Rue de l’Etuve, 41. Bruxelles, Bélgica",
+        "lat": "50.84532928759178",
+        "lng": "4.350156793895459"
+      },
+      "activitySpecs": {
+        "price": 10,
+        "pets": false,
+        "family": true,
+        "conditions": {
+          "outdoor": true,
+          "indoor": false
+        },
+        "seasonal": "All Year"
+      }
     }
   ]
 }
