@@ -788,6 +788,20 @@
         },
         "seasonal": "All Year"
       }
+    },
+    {
+      "name": "",
+      "description": "",
+      "category": "",
+      "image": "",
+      "location": {
+        "addres": ""
+      },
+      "activitySpecs": {
+        "price": 0
+      },
+      "seasonal": "",
+      "id": 25
     }
   ]
 }
