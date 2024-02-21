@@ -169,7 +169,8 @@
           "indoor": true
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": []
     },
     {
       "id": 2,
@@ -195,7 +196,8 @@
           "indoor": true
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": []
     },
     {
       "id": 3,
@@ -221,7 +223,8 @@
           "indoor": true
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": []
     },
     {
       "id": 4,
@@ -247,7 +250,8 @@
           "indoor": true
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": []
     },
     {
       "id": 5,
@@ -273,7 +277,8 @@
           "indoor": false
         },
         "seasonal": "June 10th - 13th"
-      }
+      },
+      "rate": []
     },
     {
       "id": 6,
@@ -298,7 +303,8 @@
           "indoor": false
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": []
     },
     {
       "id": 7,
@@ -324,7 +330,8 @@
           "indoor": true
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": []
     },
     {
       "id": 8,
@@ -351,7 +358,8 @@
           "indoor": true
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": []
     },
     {
       "id": 9,
@@ -377,11 +385,12 @@
           "indoor": false
         },
         "seasonal": "Better in Winter"
-      }
+      },
+      "rate": []
     },
     {
       "id": 10,
-      "name": "Guernica at Museo Reina Sofia",
+      "name": "Experience Noches del Botánico: Music Under the Stars",
       "categories": [
         "Music",
         "Culture"
@@ -403,7 +412,8 @@
           "indoor": false
         },
         "seasonal": "June - July"
-      }
+      },
+      "rate": []
     },
     {
       "id": 11,
@@ -429,7 +439,8 @@
           "indoor": true
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": []
     },
     {
       "id": 12,
@@ -455,7 +466,8 @@
           "indoor": false
         },
         "seasonal": "October"
-      }
+      },
+      "rate": []
     },
     {
       "id": 13,
@@ -480,7 +492,8 @@
           "indoor": false
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": []
     },
     {
       "id": 14,
@@ -505,7 +518,8 @@
           "indoor": false
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": []
     },
     {
       "id": 15,
@@ -532,7 +546,8 @@
           "indoor": false
         },
         "seasonal": "August"
-      }
+      },
+      "rate": []
     },
     {
       "id": 16,
@@ -559,7 +574,8 @@
           "indoor": true
         },
         "seasonal": "August - September"
-      }
+      },
+      "rate": []
     },
     {
       "id": 17,
@@ -585,7 +601,8 @@
           "indoor": true
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": []
     },
     {
       "id": 18,
@@ -611,7 +628,8 @@
           "indoor": true
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": []
     },
     {
       "id": 19,
@@ -636,7 +654,8 @@
           "indoor": true
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": []
     },
     {
       "id": 20,
@@ -661,7 +680,8 @@
           "indoor": true
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": []
     },
     {
       "id": 21,
@@ -686,7 +706,8 @@
           "indoor": false
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": []
     },
     {
       "id": 22,
@@ -711,7 +732,8 @@
           "indoor": false
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": []
     },
     {
       "id": 23,
@@ -736,7 +758,8 @@
           "indoor": false
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": []
     },
     {
       "id": 24,
@@ -761,7 +784,8 @@
           "indoor": false
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": []
     },
     {
       "id": 24,
@@ -772,7 +796,7 @@
       ],
       "description": "Enjoy making your own personalized chocolate bars with the help of a professional chocolatier. After the workshop, you can visit the Choco-Story museum in Brussels with an audio guide.",
       "cityId": 6,
-      "image": "https://cdn.getyourguide.com/img/tour/63e5032fa36fd.jpeg/145.jpg",
+      "image": "https://choco-story-brussels.be/sites/default/files/styles/gallerythumb/public/2023-07/museum_02_fr.jpg?itok=MM7-gKKs",
       "location": {
         "address": "Rue de l’Etuve, 41. Bruxelles, Bélgica",
         "lat": "50.84532928759178",
@@ -787,7 +811,8 @@
           "indoor": false
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": []
     }
   ]
 }
