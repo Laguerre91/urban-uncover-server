@@ -170,7 +170,10 @@
         },
         "seasonal": "All Year"
       },
-      "rate": []
+      "rate": [
+        4,
+        3
+      ]
     },
     {
       "id": 2,
@@ -440,7 +443,10 @@
         },
         "seasonal": "All Year"
       },
-      "rate": []
+      "rate": [
+        3,
+        4
+      ]
     },
     {
       "id": 12,
@@ -817,29 +823,6 @@
         "seasonal": "All Year"
       },
       "rate": []
-    },
-    {
-      "name": "Supermercado Dia",
-      "description": "Go shopping!",
-      "categories": [],
-      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/05/11/imagen-de-un-supermercado-dia.jpeg",
-      "cityId": "1",
-      "location": {
-        "address": "yes"
-      },
-      "activitySpecs": {
-        "price": 0,
-        "pets": false,
-        "family": true,
-        "conditions": {
-          "indoor": true,
-          "outdoor": false
-        },
-        "seasonal": "Anytime"
-      },
-      "rate": [],
-      "category": "Food",
-      "id": 26
     }
   ]
 }
