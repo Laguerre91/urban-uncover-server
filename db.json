@@ -169,7 +169,8 @@
           "indoor": true
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 2,
@@ -247,7 +248,8 @@
           "indoor": true
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 5,
@@ -273,7 +275,8 @@
           "indoor": false
         },
         "seasonal": "June 10th - 13th"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 6,
@@ -298,7 +301,8 @@
           "indoor": false
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 7,
@@ -324,7 +328,8 @@
           "indoor": true
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 8,
@@ -351,7 +356,8 @@
           "indoor": true
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 9,
@@ -377,7 +383,8 @@
           "indoor": false
         },
         "seasonal": "Better in Winter"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 10,
@@ -403,7 +410,8 @@
           "indoor": false
         },
         "seasonal": "June - July"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 11,
@@ -429,7 +437,8 @@
           "indoor": true
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 12,
@@ -455,7 +464,8 @@
           "indoor": false
         },
         "seasonal": "October"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 13,
@@ -480,7 +490,8 @@
           "indoor": false
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 14,
@@ -505,7 +516,8 @@
           "indoor": false
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 15,
@@ -532,7 +544,8 @@
           "indoor": false
         },
         "seasonal": "August"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 16,
@@ -559,7 +572,8 @@
           "indoor": true
         },
         "seasonal": "August - September"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 17,
@@ -585,7 +599,8 @@
           "indoor": true
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 18,
@@ -611,7 +626,8 @@
           "indoor": true
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 19,
@@ -636,7 +652,8 @@
           "indoor": true
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 20,
@@ -661,7 +678,8 @@
           "indoor": true
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 21,
@@ -686,7 +704,8 @@
           "indoor": false
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 22,
@@ -711,7 +730,8 @@
           "indoor": false
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 23,
@@ -736,7 +756,8 @@
           "indoor": false
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 24,
@@ -761,7 +782,8 @@
           "indoor": false
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": 0
     },
     {
       "id": 24,
@@ -787,7 +809,8 @@
           "indoor": false
         },
         "seasonal": "All Year"
-      }
+      },
+      "rate": 0
     }
   ]
 }
