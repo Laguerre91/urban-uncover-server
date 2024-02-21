@@ -467,7 +467,11 @@
         },
         "seasonal": "October"
       },
-      "rate": []
+      "rate": [
+        2,
+        4,
+        2
+      ]
     },
     {
       "id": 13,
@@ -833,7 +837,7 @@
         },
         "seasonal": "Anytime"
       },
-      "rate": 0,
+      "rate": [],
       "category": "Food",
       "id": 26
     }
