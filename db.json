@@ -796,7 +796,7 @@
       "rate": []
     },
     {
-      "id": 24,
+      "id": 25,
       "name": "Visit to the Chocolate Museum with workshop",
       "categories": [
         "Culture",
@@ -821,6 +821,29 @@
         "seasonal": "All Year"
       },
       "rate": []
+    },
+    {
+      "name": "Supermercado Dia",
+      "description": "Go shopping!",
+      "categories": [],
+      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/05/11/imagen-de-un-supermercado-dia.jpeg",
+      "cityId": "1",
+      "location": {
+        "address": "yes"
+      },
+      "activitySpecs": {
+        "price": 0,
+        "pets": false,
+        "family": true,
+        "conditions": {
+          "indoor": true,
+          "outdoor": false
+        },
+        "seasonal": "Anytime"
+      },
+      "rate": 0,
+      "category": "Food",
+      "id": 26
     }
   ]
 }
