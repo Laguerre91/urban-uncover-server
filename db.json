@@ -173,7 +173,8 @@
       "rate": [
         4,
         3
-      ]
+      ],
+      "review": []
     },
     {
       "id": 2,
@@ -200,7 +201,8 @@
         },
         "seasonal": "All Year"
       },
-      "rate": []
+      "rate": [],
+      "review": []
     },
     {
       "id": 3,
@@ -227,7 +229,8 @@
         },
         "seasonal": "All Year"
       },
-      "rate": []
+      "rate": [],
+      "review": []
     },
     {
       "id": 4,
@@ -254,7 +257,8 @@
         },
         "seasonal": "All Year"
       },
-      "rate": []
+      "rate": [],
+      "review": []
     },
     {
       "id": 5,
@@ -281,7 +285,8 @@
         },
         "seasonal": "June 10th - 13th"
       },
-      "rate": []
+      "rate": [],
+      "review": []
     },
     {
       "id": 6,
@@ -307,7 +312,8 @@
         },
         "seasonal": "All Year"
       },
-      "rate": []
+      "rate": [],
+      "review": []
     },
     {
       "id": 7,
@@ -334,7 +340,8 @@
         },
         "seasonal": "All Year"
       },
-      "rate": []
+      "rate": [],
+      "review": []
     },
     {
       "id": 8,
@@ -362,7 +369,8 @@
         },
         "seasonal": "All Year"
       },
-      "rate": []
+      "rate": [],
+      "review": []
     },
     {
       "id": 9,
@@ -389,7 +397,8 @@
         },
         "seasonal": "Better in Winter"
       },
-      "rate": []
+      "rate": [],
+      "review": []
     },
     {
       "id": 10,
@@ -416,7 +425,8 @@
         },
         "seasonal": "June - July"
       },
-      "rate": []
+      "rate": [],
+      "review": []
     },
     {
       "id": 11,
@@ -446,7 +456,8 @@
       "rate": [
         3,
         4
-      ]
+      ],
+      "review": []
     },
     {
       "id": 12,
@@ -477,7 +488,8 @@
         2,
         4,
         2
-      ]
+      ],
+      "review": []
     },
     {
       "id": 13,
@@ -503,7 +515,8 @@
         },
         "seasonal": "All Year"
       },
-      "rate": []
+      "rate": [],
+      "review": []
     },
     {
       "id": 14,
@@ -529,7 +542,8 @@
         },
         "seasonal": "All Year"
       },
-      "rate": []
+      "rate": [],
+      "review": []
     },
     {
       "id": 15,
@@ -557,7 +571,8 @@
         },
         "seasonal": "August"
       },
-      "rate": []
+      "rate": [],
+      "review": []
     },
     {
       "id": 16,
@@ -585,7 +600,8 @@
         },
         "seasonal": "August - September"
       },
-      "rate": []
+      "rate": [],
+      "review": []
     },
     {
       "id": 17,
@@ -612,7 +628,8 @@
         },
         "seasonal": "All Year"
       },
-      "rate": []
+      "rate": [],
+      "review": []
     },
     {
       "id": 18,
@@ -639,7 +656,8 @@
         },
         "seasonal": "All Year"
       },
-      "rate": []
+      "rate": [],
+      "review": []
     },
     {
       "id": 19,
@@ -665,7 +683,8 @@
         },
         "seasonal": "All Year"
       },
-      "rate": []
+      "rate": [],
+      "review": []
     },
     {
       "id": 20,
@@ -691,7 +710,10 @@
         },
         "seasonal": "All Year"
       },
-      "rate": []
+      "rate": [
+        2
+      ],
+      "review": []
     },
     {
       "id": 21,
@@ -717,7 +739,8 @@
         },
         "seasonal": "All Year"
       },
-      "rate": []
+      "rate": [],
+      "review": []
     },
     {
       "id": 22,
@@ -743,7 +766,8 @@
         },
         "seasonal": "All Year"
       },
-      "rate": []
+      "rate": [],
+      "review": []
     },
     {
       "id": 23,
@@ -769,7 +793,8 @@
         },
         "seasonal": "All Year"
       },
-      "rate": []
+      "rate": [],
+      "review": []
     },
     {
       "id": 24,
@@ -795,7 +820,8 @@
         },
         "seasonal": "All Year"
       },
-      "rate": []
+      "rate": [],
+      "review": []
     },
     {
       "id": 25,
@@ -822,7 +848,8 @@
         },
         "seasonal": "All Year"
       },
-      "rate": []
+      "rate": [],
+      "review": []
     }
   ]
 }
