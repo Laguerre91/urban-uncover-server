@@ -455,9 +455,16 @@
       },
       "rate": [
         3,
-        4
+        4,
+        null,
+        null,
+        null
       ],
-      "review": []
+      "review": [
+        "no me gusto",
+        "I enjoyed it very much",
+        "delicious"
+      ]
     },
     {
       "id": 12,
